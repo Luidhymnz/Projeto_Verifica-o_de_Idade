@@ -62,7 +62,7 @@ Entrada permitida.
 
 Este projeto foi desenvolvido para fins didáticos, visando praticar:
 
-> Estruturas condicionais
+> Estrutura condicional
 
 > Entrada e saída de dados
 
